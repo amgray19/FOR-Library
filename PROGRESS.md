@@ -4,5 +4,6 @@
 - [x] Project created; `index.html` imported from `for-boilerplate-20261023.html` (1,030,751 bytes). Local git only, no remote.
 
 ## Backlog
-- [ ] Record hosting location and publish procedure in `docs/publishing.md`.
-- [ ] Decide whether to split sections into source fragments with a tiny build, or keep single-file editing.
+- [x] `docs/publishing.md` written; private remote `amgray19/FOR-Library` pushed 2026-11-06.
+- [ ] Record the live URL in `docs/publishing.md` (owner to supply).
+- [x] Keep single-file editing, no build step (owner decision 2026-11-06).

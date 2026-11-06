@@ -11,7 +11,7 @@
 - **Watch out:** no GitHub remote on purpose (KUMC emails in the page); ask before creating one. CLAUDE.md flags the doubled DOCTYPE/title and 36k-char lines.
 
 ## Added 08:25 (gm)
-- [ ] _needs you_: where is the page hosted and what should change first? Writes `docs/publishing.md`. _from RESUME HERE 08:15_
-- [ ] Decide single-file editing vs. section fragments + tiny build. _from PROGRESS.md backlog_
+- [x] Hosted already; code pushed to private `amgray19/FOR-Library`; `docs/publishing.md` written (live URL still blank). _from RESUME HERE 08:15_
+- [x] Decide single-file editing vs. section fragments + tiny build: single file, no build (owner). _from PROGRESS.md backlog_
 - [x] iTerm2: KU blue-to-red plate on all three KUMC profiles; hook mints future KUMC repos on it. _from owner 08:20_
-- [ ] `.claude/` is untracked: commit the daily file dir or ignore it. _from git status_
+- [x] `.claude/` committed. _from git status_
