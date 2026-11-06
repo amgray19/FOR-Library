@@ -4,4 +4,9 @@
 *.log
 node_modules/
 dist/
-.claude/today/*.tmp
+
+# Claude Code: track handoff files (.claude/today/, inboxes); ignore machine-local state
+.claude/settings.local.json
+.claude/.resume-action
+.claude/.pre-compact-snapshot
+.claude/worktrees/
