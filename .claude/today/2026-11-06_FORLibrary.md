@@ -15,3 +15,13 @@
 - [x] Decide single-file editing vs. section fragments + tiny build: single file, no build (owner). _from PROGRESS.md backlog_
 - [x] iTerm2: KU blue-to-red plate on all three KUMC profiles; hook mints future KUMC repos on it. _from owner 08:20_
 - [x] `.claude/` committed. _from git status_
+
+## RESUME HERE (gn 08:48)
+- **Agent:** claude · Fable 5.1
+- **HEAD:** b929b03 · main
+- **In flight:** nothing
+- **Done this block:** private remote `amgray19/FOR-Library` created and pushed; `docs/publishing.md` written (live URL blank); decision recorded: single-file editing, no build step; `.gitignore` tracks `.claude/today/`, ignores local Claude state; KU blue-to-red iTerm plate on all three KUMC profiles (lives in `~/.claude`, committed there).
+- **Verified:** checked: `gh repo view` reports PRIVATE, tree clean, pushes landed; reported only: iTerm window adopted the new plate.
+- **Next move:** _needs you_: the live URL of the hosted page, then fill the Hosting line in `docs/publishing.md`.
+- **Do not stage:** none
+- **Watch out:** page carries KUMC emails; never flip the repo public. Edits go in `index.html` directly (36k-char lines; targeted search only).
