@@ -11,7 +11,7 @@ Work project (KUMC), not Leftward Labs. Vault: KUMC-Vault (`/Volumes/web/KUMC-Va
 
 ## Rules
 
-- Contents are institutional text with KUMC contact emails. No public remote, no pushes to GitHub, no copies to third-party services without Andrew's explicit OK.
+- Contents are institutional text with KUMC contact emails. Remote is the private GitHub repo `amgray19/FOR-Library` (owner-approved 2026-11-06). Never make it public or copy contents to other third-party services without Andrew's explicit OK.
 - Keep the page self-contained: one file, no build step. Prefer CSS and plain JS over dependencies.
 - Preserve KU brand colors already in the page (`#0051BA` blue, `#DB000B` red, Raleway headings, Arial 11pt body).
 - US English. Do not rewrite boilerplate prose voice; facilities text is owner-supplied by each core or department.
